@@ -6,18 +6,16 @@
 
 MMEE is designed to detect **event mentions**, classify **event types**, and extract **arguments/roles** by fusing **visual and textual evidence**.  
 
-⚠️ **Note**: This repository currently contains **partial code** for multimodal event extraction tasks.  
-- The full pipeline is **not runnable yet** and will be updated soon.  
-- It does **not include datasets** or **pre-trained model weights**.  
+**Note**: This repository currently contains code for multimodal event extraction tasks.  
+- Shared_Cross_Modal_IE contains the files and instructions to run the pipeline for Cross modal Event Extraction
 
 ---
 
-## ✨ Features (planned)
+## ✨ Features
 - Multimodal fusion of **image and text representations**  
 - Event mention detection  
 - Event type classification  
 - Argument/role extraction  
-- Integration with **concept bottleneck models** for interpretability  
 
 ---
 ## 📬 Contact
